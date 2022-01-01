@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamiFziyen
+- 👋 Hi, my name Sami Fziyen
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning C, HTML and CSS
 - 💞️ I’m looking to collaborate on open source projects
