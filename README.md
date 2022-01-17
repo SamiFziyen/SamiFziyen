@@ -1,6 +1,6 @@
 - 👋 Hi, my name Sami Fziyen
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning C, HTML and CSS
+- 🌱 I’m currently learning C and JavaScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : fziyensami@gmail.com
 
